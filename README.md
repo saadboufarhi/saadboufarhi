@@ -105,7 +105,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/saadboufarhi/saadboufarhi/output/snake.svg" alt="Snake animation" />
-
-###
